@@ -1,0 +1,13 @@
+@charset "UTF-8"
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: left;   
+    flex-wrap: wrap;
+}
+
+.row {
+    display: flex;
+}
